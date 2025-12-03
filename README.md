@@ -10,7 +10,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará uma coleção organizada d
 
 Sou um desenvolvedor em constante evolução, sempre explorando novas tecnologias e buscando aplicar boas práticas de programação. Meu foco inclui:
 
-* Desenvolvimento backend e frontend
+* Desenvolvimento FULLSTACK
 * Estruturas de dados e algoritmos
 * Modelagem UML e engenharia de software
 * Python, C, JavaScript e outras linguagens
@@ -27,7 +27,6 @@ Abaixo está uma visão geral das categorias de projetos e conteúdos disponíve
 Repositórios com anotações detalhadas, exercícios, diagramas e códigos simples utilizados nos meus estudos.
 
 * Conceitos de POO
-* Diagramas UML (casos de uso, classes, sequência, estados)
 * Estruturas de dados
 * Lógica de programação
 
@@ -39,22 +38,6 @@ Projetos completos ou em desenvolvimento, com foco em aplicações práticas.
 * APIs REST
 * Bots e automações
 * Aplicações web
-
-### **3. 📘 Modelagem e Documentação**
-
-Conteúdos gerados para representar, documentar e justificar sistemas:
-
-* Diagramas UML complexos
-* Modelagem de requisitos
-* Documentação técnica de software
-
----
-
-## 🛠️ Tecnologias Mais Utilizadas
-
-* C/C++
-
----
 
 ## 📈 Objetivo do Repositório
 
