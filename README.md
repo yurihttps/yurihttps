@@ -1,48 +1,51 @@
+# 👋 Olá, eu sou o Yuri Brasca!
 
-# READMEYURI
-Um pouco sobre mim.
-🚀 Sobre mim
+## 🚀 Sobre mim
 
-🎯 Iniciando meus estudos em programação
+🎯 Iniciando meus estudos em programação  
+💡 Buscando entender conceitos fundamentais e construir boas práticas  
+📘 Focado em aprender de forma sólida e aplicada  
+🛠️ Trabalhando em pequenos projetos e desafios para evoluir  
 
-💡 Buscando entender conceitos fundamentais e construir boas práticas
+---
 
-📘 Focado em aprender de forma sólida e aplicada
-
-🛠️ Trabalhando em pequenos projetos e desafios para evoluir
-
-🧰 Tecnologias que estou aprendendo
+## 🧰 Tecnologias que estou aprendendo
 
 Atualmente estou estudando e desenvolvendo projetos usando:
 
-C# – minha linguagem principal para aprender lógica, orientação a objetos e construção de aplicações.
+- **C#**  
+  Minha linguagem principal para aprender lógica de programação, orientação a objetos e construção de aplicações.
 
-JavaScript – aprendendo a manipular a web, entender o frontend e dar os primeiros passos no desenvolvimento web.
+- **JavaScript**  
+  Aprendendo a manipular a web, entender conceitos de frontend e dar os primeiros passos no desenvolvimento web.
 
-📚 O que você vai encontrar por aqui
+---
 
-Exercícios e práticas de lógica
+## 📚 O que você vai encontrar por aqui
 
-Pequenos projetos de estudo
+- Exercícios e práticas de lógica  
+- Pequenos projetos de estudo  
+- Projetos simples usando **C#** e **JavaScript**  
+- Repositórios com anotações da minha evolução  
 
-Projetos simples usando C# e JavaScript
+---
 
-Repositórios com anotações da minha evolução
+## 🎯 Objetivos atuais
 
-🎯 Objetivos atuais
+- Criar uma base sólida em programação  
+- Desenvolver projetos que mostrem minha evolução  
+- Construir um portfólio consistente ao longo do tempo  
 
-Criar uma base sólida em programação
+---
 
-Desenvolver projetos que mostrem minha evolução
-
-Construir um portfólio consistente com o tempo
-
-📬 Contato
+## 📬 Contato
 
 Sinta-se à vontade para entrar em contato ou acompanhar minha evolução:
 
-Email: coloque-seu-email-aqui
+- 📧 Email: `seu-email-aqui`
+- 💼 LinkedIn: `seu-linkedin-aqui`
 
-LinkedIn: coloque-seu-linkedin-aqui
+---
 
-✨ Obrigado por visitar meu perfil! Em breve, muitos projetos novos por aqui.
+✨ **Obrigado por visitar meu perfil!**  
+🚧 Em breve, muitos projetos novos por aqui.
